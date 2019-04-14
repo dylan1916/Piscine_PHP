@@ -1,0 +1,62 @@
+body{
+    font-family:Arial;
+    background-color: #3EA3DC;
+}
+#navbar
+{
+    margin-left: 420px;
+
+}
+h1
+{
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.menu li{
+    display: none;
+    padding:10px 10px 10px 20px;
+    color : white;
+}
+
+.menu li:first-child
+{
+    display: block;
+    border-top:0px;
+    padding-left:10px;
+}
+
+.menu:hover li
+{
+    display:block;
+}
+
+.menu:hover li:first-child
+{
+    background-color:#1E88E5;
+}
+
+.menu
+{
+    background-color: royalblue;
+    width:150px;
+    padding:0px;
+    float:left;
+}
+
+.menu li:hover
+{
+    background-color:#1E88E5;
+    transition: .2s;
+}
+
+a
+{
+    color : white;
+}

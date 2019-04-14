@@ -1,0 +1,188 @@
+body
+{
+background-color: #4d4d4d;
+}
+
+center
+{
+    text-align: left;
+}
+h2
+{
+    padding-top: 660px;
+    position: absolute;
+    right: 782px;
+}
+h3
+{
+    position: absolute;
+    padding-top: 630px;
+    left: 880px;
+    color: aqua;
+}
+.apple a 
+{
+    color: transparent;
+}
+.ikea a
+{
+    color: transparent;
+}
+#header{
+background-color: #909090;
+margin-left: 80px;
+margin-right: 80px;
+border-radius: 15px;
+padding-left: 10px;
+padding-right: 10px;
+display: flex;
+box-shadow: 1000px;
+}
+
+#header_left
+{
+display: flex;
+flex-direction: column;
+padding-left: 36px;
+}
+
+#loupe
+{
+margin-top: 90px;
+margin-left: 1100px;
+}
+
+#reload
+{
+width: 25px;
+height: 25px;
+margin-top: 5px;
+}
+
+#close
+{
+width: 25px;
+height: 25px;
+padding-top: 180px;
+}
+
+#left
+{
+background-color: #909090;
+display: flex;
+flex-direction: column;
+width: 150px;
+height: 588px;
+margin-top: 20px;
+margin-left: 110px;
+align-items: center;
+border-radius: 20px;
+}
+
+#arrow
+{
+width: 65px;
+height: 75px;
+}
+
+#main
+{
+width: 65px;
+height: 75px;
+}
+
+#oeil
+{
+width: 65px;
+height: 75px;
+border: solid 4px red;
+}
+
+#outil
+{
+width: 65px;
+height: 75px;
+}
+
+#chat
+{
+width: 65px;
+height: 75px;
+}
+
+#center_day
+{
+    display: flex;
+}
+
+#cluster
+{
+width: 65%;
+height: 55%;
+border: solid 10px #909090;
+border-radius: 10px;
+margin-top: 20px;
+margin-left: 18px;
+}
+
+#book
+{
+width: 85px;
+height: 85px;
+}
+
+#towel
+{
+width: 65px;
+height: 65px;
+}
+
+#brick
+{
+width: 110px;
+height: 65px;
+}
+
+#right
+{
+display: flex;
+flex-direction: column;
+background-color: #909090;
+width: 150px;
+height: 588px;
+margin-left: 20px;
+margin-top: 20px;
+align-items: center;
+border-radius: 20px;
+}
+
+#box
+{
+    background-color: #3eff90;
+    width: 450px;
+    height: 170px;
+    margin-left: 55px;
+    margin-top:-50px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+#maj
+{
+    font-size: 35px;
+}
+
+#shadow
+{
+	text-shadow: 5px 5px 4px red;
+}
+
+#italic
+{
+    font-style: italic;
+}
+
+#in_text
+{
+    width: 290px;
+}
